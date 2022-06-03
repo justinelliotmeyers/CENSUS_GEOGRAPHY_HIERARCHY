@@ -1,0 +1,2 @@
+ca - https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/figures/f1_1-eng.cfm
+us - https://www2.census.gov/geo/pdfs/reference/geodiagram.pdf
